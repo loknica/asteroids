@@ -2,8 +2,8 @@ import sys
 import pygame
 from constants import *
 from player import Player
-from asteroid import Asteroid
-from asteroidfield import AsteroidField
+from asteroids import Asteroid
+from asteroidsfield import AsteroidField
 from shot import Shot
 
 
